@@ -1,0 +1,78 @@
+E:\projects\Chat app\Chat uwp\x64\Debug\Chat uwp\App.xbf
+E:\projects\Chat app\Chat uwp\x64\Debug\Chat uwp\MainPage.xbf
+E:\projects\Chat app\Chat uwp\x64\Debug\Chat uwp\resources.pri
+E:\projects\Chat app\Chat uwp\x64\Debug\Chat uwp\AppxManifest.xml
+E:\projects\Chat app\Chat uwp\x64\Debug\Chat uwp\Chat uwp.build.appxrecipe
+E:\projects\Chat app\Chat uwp\x64\Debug\Chat uwp.vcxproj.AssemblyReference.cache
+E:\projects\Chat app\Chat uwp\x64\Debug\XamlSaveStateFile.xml
+E:\projects\Chat app\Chat uwp\x64\Debug\ResourceHandlingTask.state
+E:\projects\Chat app\Chat uwp\x64\Debug\Chat uwp.vcxproj.GenerateResource.Cache
+E:\projects\Chat app\Chat uwp\x64\Debug\priconfig.xml
+E:\projects\Chat app\Chat uwp\x64\Debug\priconfig.xml.intermediate
+E:\projects\Chat app\Chat uwp\x64\Debug\unfiltered.layout.resfiles
+E:\projects\Chat app\Chat uwp\x64\Debug\unfiltered.layout.resfiles.intermediate
+E:\projects\Chat app\Chat uwp\x64\Debug\filtered.layout.resfiles
+E:\projects\Chat app\Chat uwp\x64\Debug\filtered.layout.resfiles.intermediate
+E:\projects\Chat app\Chat uwp\x64\Debug\excluded.layout.resfiles
+E:\projects\Chat app\Chat uwp\x64\Debug\excluded.layout.resfiles.intermediate
+E:\projects\Chat app\Chat uwp\x64\Debug\resources.resfiles
+E:\projects\Chat app\Chat uwp\x64\Debug\resources.resfiles.intermediate
+E:\projects\Chat app\Chat uwp\x64\Debug\pri.resfiles
+E:\projects\Chat app\Chat uwp\x64\Debug\pri.resfiles.intermediate
+E:\projects\Chat app\Chat uwp\x64\Debug\qualifiers.txt
+E:\projects\Chat app\Chat uwp\x64\Debug\qualifiers.txt.intermediate
+E:\projects\Chat app\Chat uwp\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+E:\projects\Chat app\Chat uwp\x64\Debug\ProjectArchitectures.txt
+E:\projects\Chat app\Chat uwp\x64\Debug\Chat uwp\RegisterPage.xbf
+E:\projects\Chat app\Chat uwp\x64\Debug\Chat uwp\Entry.xbf
+E:\projects\Chat app\Chat uwp\x64\Debug\Chat uwp\StatusUC.xbf
+E:\projects\Chat app\Chat uwp\x64\Debug\Chat uwp\ChatsUC.xbf
+E:\projects\Chat app\Chat uwp\x64\Debug\Chat uwp\TextSpace.xbf
+E:\projects\Chat app\Chat uwp\x64\Debug\Chat uwp\messageUC.xbf
+E:\projects\Chat app\Chat uwp\x64\Debug\Chat uwp\ContactUC.xbf
+E:\projects\Chat app\Chat uwp\x64\Debug\Chat uwp\ContactsUC.xbf
+E:\projects\Chat app\Chat uwp\x64\Debug\Chat uwp\AddContact.xbf
+E:\projects\Chat app\Chat uwp\x64\Debug\Chat uwp\EditUC.xbf
+E:\projects\Chat app\Chat uwp\x64\Debug\Chat uwp\AddStatusUC.xbf
+E:\projects\Chat app\Chat uwp\x64\Debug\Chat uwp\NewGroupUC.xbf
+E:\projects\Chat app\Chat uwp\x64\Debug\Chat uwp\StatusViewerUC.xbf
+C:\Users\ahmed\OneDrive\Desktop\my original\x64\Debug\Chat uwp\App.xbf
+C:\Users\ahmed\OneDrive\Desktop\my original\x64\Debug\Chat uwp\AddContact.xbf
+C:\Users\ahmed\OneDrive\Desktop\my original\x64\Debug\Chat uwp\AddStatusUC.xbf
+C:\Users\ahmed\OneDrive\Desktop\my original\x64\Debug\Chat uwp\ChatsUC.xbf
+C:\Users\ahmed\OneDrive\Desktop\my original\x64\Debug\Chat uwp\ContactsUC.xbf
+C:\Users\ahmed\OneDrive\Desktop\my original\x64\Debug\Chat uwp\ContactUC.xbf
+C:\Users\ahmed\OneDrive\Desktop\my original\x64\Debug\Chat uwp\EditUC.xbf
+C:\Users\ahmed\OneDrive\Desktop\my original\x64\Debug\Chat uwp\Entry.xbf
+C:\Users\ahmed\OneDrive\Desktop\my original\x64\Debug\Chat uwp\MainPage.xbf
+C:\Users\ahmed\OneDrive\Desktop\my original\x64\Debug\Chat uwp\messageUC.xbf
+C:\Users\ahmed\OneDrive\Desktop\my original\x64\Debug\Chat uwp\NewGroupUC.xbf
+C:\Users\ahmed\OneDrive\Desktop\my original\x64\Debug\Chat uwp\RegisterPage.xbf
+C:\Users\ahmed\OneDrive\Desktop\my original\x64\Debug\Chat uwp\StatusUC.xbf
+C:\Users\ahmed\OneDrive\Desktop\my original\x64\Debug\Chat uwp\StatusViewerUC.xbf
+C:\Users\ahmed\OneDrive\Desktop\my original\x64\Debug\Chat uwp\TextSpace.xbf
+C:\Users\ahmed\OneDrive\Desktop\my original\x64\Debug\Chat uwp\resources.pri
+C:\Users\ahmed\OneDrive\Desktop\my original\x64\Debug\Chat uwp\AppxManifest.xml
+C:\Users\ahmed\OneDrive\Desktop\my original\x64\Debug\Chat uwp\Chat uwp.build.appxrecipe
+C:\Users\ahmed\OneDrive\Desktop\my original\x64\Debug\Chat uwp.vcxproj.AssemblyReference.cache
+C:\Users\ahmed\OneDrive\Desktop\my original\x64\Debug\XamlSaveStateFile.xml
+C:\Users\ahmed\OneDrive\Desktop\my original\x64\Debug\ResourceHandlingTask.state
+C:\Users\ahmed\OneDrive\Desktop\my original\x64\Debug\Chat uwp.vcxproj.GenerateResource.Cache
+C:\Users\ahmed\OneDrive\Desktop\my original\x64\Debug\priconfig.xml
+C:\Users\ahmed\OneDrive\Desktop\my original\x64\Debug\priconfig.xml.intermediate
+C:\Users\ahmed\OneDrive\Desktop\my original\x64\Debug\unfiltered.layout.resfiles
+C:\Users\ahmed\OneDrive\Desktop\my original\x64\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\ahmed\OneDrive\Desktop\my original\x64\Debug\filtered.layout.resfiles
+C:\Users\ahmed\OneDrive\Desktop\my original\x64\Debug\filtered.layout.resfiles.intermediate
+C:\Users\ahmed\OneDrive\Desktop\my original\x64\Debug\excluded.layout.resfiles
+C:\Users\ahmed\OneDrive\Desktop\my original\x64\Debug\excluded.layout.resfiles.intermediate
+C:\Users\ahmed\OneDrive\Desktop\my original\x64\Debug\resources.resfiles
+C:\Users\ahmed\OneDrive\Desktop\my original\x64\Debug\resources.resfiles.intermediate
+C:\Users\ahmed\OneDrive\Desktop\my original\x64\Debug\pri.resfiles
+C:\Users\ahmed\OneDrive\Desktop\my original\x64\Debug\pri.resfiles.intermediate
+C:\Users\ahmed\OneDrive\Desktop\my original\x64\Debug\qualifiers.txt
+C:\Users\ahmed\OneDrive\Desktop\my original\x64\Debug\qualifiers.txt.intermediate
+C:\Users\ahmed\OneDrive\Desktop\my original\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\ahmed\OneDrive\Desktop\my original\x64\Debug\ProjectArchitectures.txt
+E:\projects\Chat app\Chat uwp\x64\Debug\Chat uwp\ContactDataView.xbf
+E:\projects\Chat app\Chat uwp\x64\Debug\Chat uwp\messageGroupUC.xbf
